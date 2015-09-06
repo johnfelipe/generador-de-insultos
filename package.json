@@ -1,0 +1,28 @@
+{
+  "name": "generador-de-insultos",
+  "version": "1.0.0",
+  "description": "A Spanish Insult Generator, improve your vocabulary",
+  "bin": {
+    "generador-de-insultos": "server.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbdr/generador-de-insultos.git"
+  },
+  "author": "Ruben Beltran del Rio",
+  "license": "BSD 2-Clause",
+  "bugs": {
+    "url": "https://github.com/rbdr/generador-de-insultos/issues"
+  },
+  "homepage": "https://github.com/rbdr/generador-de-insultos",
+  "dependencies": {
+    "bluebird": "2.9.x",
+    "cheerio": "0.19.x",
+    "hapi": "9.2.x",
+    "neon": "2.0.x",
+    "request": "2.61.x"
+  }
+}
