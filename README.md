@@ -4,3 +4,5 @@ Insult generator in spanish, stop using those dumb popular curse words: make you
 ## TODO
  * Proper pluralizer. This is in lazy mode.
  * Vet words
+ * Cleanup dependencies. Like seriously, this is ridiculous, 5 deps ===
+   hundreds
